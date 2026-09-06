@@ -1,4 +1,3 @@
-import math
 import pytest
 from src.calculators.egfr import ckd_epi_2009, ckd_epi_2021
 

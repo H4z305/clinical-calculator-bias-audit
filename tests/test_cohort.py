@@ -1,5 +1,4 @@
 import pandas as pd
-import pytest
 from src.cohort import generate_cohort, DEFAULT_SEED
 
 EXPECTED_COLUMNS = [
